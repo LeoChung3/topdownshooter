@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{cb3a6f20-8142-43a7-beac-b5aecefd7bdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{e881042e-2f6d-4b88-8233-0c3c79ff318e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventory.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="CPUControlled.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+=======
+    <ClCompile Include="Bullet.cpp" />
+>>>>>>> 9bdc31ae2ff702e83ee00f0c83204bdf33b54ed0
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Initialise.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectBuilder.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBuilder.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneryBuilder.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjectDirector.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="RunGame.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="UIObject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="StarMaker.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBuilder.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="ColleactableItem.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="WeaponItem.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyWeapon.h">
+      <Filter>include</Filter>
+    </ClInclude>
+<<<<<<< HEAD
+    <ClInclude Include="PlayerWeapon.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CPUControlled.h">
+=======
+    <ClInclude Include="Bullet.h">
+>>>>>>> 9bdc31ae2ff702e83ee00f0c83204bdf33b54ed0
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

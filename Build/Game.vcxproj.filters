@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Collectable.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Potion.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenery.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="CraftingMaterial.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialManager.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderBoard.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MiniGun.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Shelter.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVreader.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{879d5874-c4b2-4e43-859d-88819dc8f773}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source">
+      <UniqueIdentifier>{65d6bf80-334a-4bb5-b182-2b4a891b84f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Initialise.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Collectable.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Potion.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Scenery.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CraftingMaterial.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialManager.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="LeaderBoard.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Shelter.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CraftableItem.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="MiniGun.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStart.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventory.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVreader.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="MyThreading.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Assets\UserDetails.csv">
+      <Filter>source</Filter>
+    </None>
+  </ItemGroup>
+</Project>
